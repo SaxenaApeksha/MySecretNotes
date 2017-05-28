@@ -1,5 +1,5 @@
 # MySecretNotes
-Modern Notes app in Browser
+Modern Notes app in Browser.
 
 ## What it does ##
 
